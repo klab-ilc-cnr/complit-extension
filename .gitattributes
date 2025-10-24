@@ -1,0 +1,2 @@
+CompL-it.ttl.gz filter=lfs diff=lfs merge=lfs -text
+Simple_Ontology.ttl.gz filter=lfs diff=lfs merge=lfs -text
